@@ -1,0 +1,31 @@
+.noidung{
+    display: flex; justify-content: center; padding-top: 20px; padding-bottom: 20px;
+}
+.ttcanhan{
+    width: 800px; height: auto; background-color: whitesmoke; padding-left: 100px;
+}
+.bangttcanhan{
+    width: 600px; height: auto; background-color: whitesmoke; margin-top: 50px;
+}
+.anhcanhan{
+    margin-top: -12px; width: 110px;
+}
+.ten{
+    font-size: xx-large; font-weight: bold; color: rgb(4, 10, 88);
+}
+.congviec{
+    font-size: medium; color: rgb(8, 24, 117);
+}
+.indam{
+    font-weight: bold;
+}
+.tieude{
+    width: 600px; height: auto; background-color: whitesmoke; margin-top: 25px;
+}
+hr{
+    margin-top: -4px;
+}
+.noihoctap{
+    margin-left: 100px; display: grid;
+}
+
